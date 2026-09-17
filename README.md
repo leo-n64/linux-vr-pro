@@ -33,7 +33,7 @@ The pocket unit handles all the heavy lifting under Linux, creates its own ultra
 - [ ] Phase 1: Build and configure the OS prototype in a virtual machine (GNOME Boxes)
 - [ ] Phase 2: Automate network scripts (Automatic headless Wi-Fi Hotspot on boot)
 - [ ] Phase 3: Develop and customize the dedicated APK Launcher for the Quest 3
-- [ ] Phase 4: Purchase the first test hardware (Mini-PC) using summer job savings (€1,505) and 3D print the belt case
+- [ ] Phase 4: Purchase the first test hardware (Mini-PC)
 - [ ] Phase 5: Launch YouTube DevLogs and the Kickstarter campaign
 
 ---
