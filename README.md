@@ -36,5 +36,3 @@ The pocket unit handles all the heavy lifting under Linux, creates its own ultra
 - [ ] Phase 4: Purchase the first test hardware (Mini-PC)
 - [ ] Phase 5: Launch YouTube DevLogs and the Kickstarter campaign
 
----
-*Proudly developed and powered from an OLED Steam Deck!* 🎮
